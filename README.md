@@ -41,7 +41,7 @@ Aplikacja wymaga Pythona 3.x oraz jednej zewnętrznej zależności.
 
 4.  **Uruchom aplikację:**
     ```bash
-    python sorter.py
+    python ukladacz.py
     ```
     Aplikacja automatycznie utworzy pliki `config.json` (z regułami) i `undo.log` (po sortowaniu) w tym samym katalogu.
 
